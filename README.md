@@ -9,3 +9,6 @@ Iniciamos con una explicacion de qeu era el drag-drop, cual era su funcion, como
 
 # Proyecto Product-card
 En este proyecto Sass, hicimos que al pasar el cursor del mouse se levantara la imagen con todo y informacion, esto se pudo hacer con otra funcion de una card estos tenian que hacer con una imagen png para que quedara como era si tenia otro tipo de imagen quedaba con fondo blanco o si era muy grande no dejaba ver la informacion o salia a la otra card lo recomendable era encontra una imagen mas o menos chiquita y que tuviera png para que la card quedara con un bueno funcionamiento y el reto era crear otra con otra imagen distinta pero tenia que quedar al lado de la otra y que las dos quedaran con el funcionamiento adecuado.En este proyecto solo va una carpeta porque las dos card tenian que quedar en el mismo index.
+
+# Proyecto Sass
+en este proyecto teniamos que replicar un pdf que nos dejo el instructor, de que la pagina sea responsive y a medida de que se iba cambiando de tamaños se iba cambiando de forma y de color de un cuadro, el ejercicio que nos tocaba hacer era que con esa misma pagina nosotros en vez de cuadros de colores pusieramos imagenes y a medida de que se  iba haciendo el responsive la imagen iba cambiando de tamaño y cambiando a otra imagen .
